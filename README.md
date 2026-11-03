@@ -84,7 +84,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-"C:\Users\acer\Pictures\Screenshots\Screenshot (32).png"
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/57ba0c56-ac7c-4564-b8fb-6e24cc5864a3" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
